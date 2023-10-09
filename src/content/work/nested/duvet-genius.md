@@ -20,4 +20,4 @@ Nous avons également identifié les facteurs qui sont associés à la naissance
 
 Ce projet de groupe a été une expérience incroyablement enrichissante pour moi, non seulement en me permettant d'affiner mes compétences en analyse de données, mais aussi en me permettant de travailler avec une équipe formidable pour atteindre un objectif commun. Je suis fier(e) d'avoir contribué à cette analyse approfondie et j'espère que nos résultats auront un impact positif sur la santé des nourrissons et des mères aux États-Unis.
 ### Lien du projets
-<a href="https://vu.fr/PCsu">Cliquez ici </a> pour acceder au projet
+<a href="https://drive.google.com/drive/folders/1frxHuAJXk_XmTxahIfODeO0GLJwVCGEh?usp=drive_link">Cliquez ici </a> pour acceder au projet
