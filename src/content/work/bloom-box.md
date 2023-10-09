@@ -22,7 +22,7 @@ Notre approche a permis d'obtenir des résultats précis et fiables en matière 
 Ce projet a été pour moi une opportunité unique de renforcer mes compétences en matière de vision par ordinateur et de travailler en équipe sur un projet ambitieux et passionnant. J'ai pu approfondir ma compréhension des algorithmes de détection d'animaux, ainsi que des défis et des opportunités du secteur de la vision par ordinateur.
 
 ### Lien du projets
-<a href="https://vu.fr/mmHL">Cliquez ici </a> pour acceder au projet
+<a href="https://drive.google.com/drive/folders/1Vwj6J-b5gYAzwDugNcZe9YA9Z4t7lTou?usp=drive_link">Cliquez ici </a> pour acceder au projet
 
 
 
