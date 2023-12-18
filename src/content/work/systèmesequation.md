@@ -1,7 +1,7 @@
 ---
 title: Analyse sur la santé mentale dans le milieu technologique
 publishDate: 2023-12-18 00:00:00
-img: /assets/dash.png
+img: /assets/dash.PNG
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   créé un programme à résoudre de système équations linéaires de complexité supérieure 3 en utilisant le paradigme de la programmation orienté objet (POO).
