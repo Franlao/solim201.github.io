@@ -4,7 +4,7 @@ publishDate: 2023-12-18 00:00:00
 img: /assets/dash.PNG
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  créé un programme à résoudre de système équations linéaires de complexité supérieure 3 en utilisant le paradigme de la programmation orienté objet (POO).
+    Analyse approfondie des risques associés à la santé mentale sur le lieu de travail technologique, en mettant en lumière les troubles de santé mentale.
 tags:
   - Python
   - Dash
