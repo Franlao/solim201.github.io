@@ -23,6 +23,9 @@ Nous avons également pris soin de tester le jeu de manière approfondie pour no
 
 Ce projet m'a permis de développer mes compétences en matière de développement de jeux, tout en me permettant de travailler en étroite collaboration avec une équipe passionnée et motivée. J'ai également pu renforcer ma compréhension des principes de l'expérience utilisateur et de l'interaction homme-machine, ce qui sera certainement utile pour mes projets futurs.
 
+### Lien du projets
+<a href="https://github.com/Franlao/D-mineur.CIC/">Cliquez ici </a> pour acceder au projet
+
 
 
 
