@@ -1,0 +1,270 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "About",
+    "projects": "Projets",
+    "contact": "Contact",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "certifications": "Certifications"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "title": "Solim LAOKPEZI",
+    "subtitle": "Data Scientist & IA Engineer",
+    "description": "AI Engineer et Data Scientist avec 2+ ans d'expérience spécialisé dans le développement de solutions d'IA générative. Expert en LLM, RAG et Deep Learning avec des réalisations concrètes dans l'automobile et la santé.",
+    "cta_experience": "Voir mon expérience",
+    "cta_projects": "Mes projets"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Passionné par l'intelligence artificielle et l'analyse de données",
+    "description": "Data Scientist expérimenté avec plus de 3 ans d'expérience dans l'analyse de données, l'intelligence artificielle et le machine learning. Spécialisé dans la transformation de données complexes en insights stratégiques.",
+    "experience": "Expérience",
+    "education": "Formation",
+    "skills": "Compétences",
+    "download_cv": "Télécharger mon CV"
+  },
+  "projects": {
+    "title": "Projets Phares",
+    "subtitle": "Découvrez mes réalisations en intelligence artificielle et analyse de données",
+    "view_project": "Voir le projet",
+    "view_dashboard": "Voir le dashboard",
+    "view_thesis": "Voir le mémoire",
+    "source_code": "Code source",
+    "synthetic_data": {
+      "title": "Synthetic Healthcare Data Generator",
+      "description": "Outil avancé de génération de données de santé synthétiques utilisant les dernières technologies d'IA générative pour créer des datasets réalistes et conformes aux réglementations.",
+      "features": {
+        "generation": "Génération via <span class=\"text-accent-400 font-semibold\">GAN, VAE, et LLM</span> avec API Mistral",
+        "interface": "Interface interactive avec <span class=\"text-accent-400 font-semibold\">configuration dynamique</span>",
+        "properties": "Préservation des <span class=\"text-accent-400 font-semibold\">propriétés statistiques</span> originales"
+      }
+    },
+    "mental_health": {
+      "title": "Dashboard Santé Mentale Tech",
+      "description": "Dashboard analytique interactif pour l'analyse des risques de santé mentale dans le secteur technologique, avec modèles prédictifs et visualisations avancées.",
+      "features": {
+        "analysis": "Analyse de 1000+ réponses avec dashboard Python/Dash",
+        "models": "Modèles de régression logistique pour prédiction des risques",
+        "visualization": "Visualisation des corrélations âge, genre, et bien-être au travail"
+      }
+    },
+    "pediatric": {
+      "title": "Analyse Réanimation Pédiatrique",
+      "description": "Dashboard Shiny avancé pour l'analyse des données critiques hospitalières en réanimation pédiatrique, avec interface spécialisée pour les professionnels de santé.",
+      "features": {
+        "dashboard": "Dashboard Shiny (R/SQL) pour données critiques hospitalières",
+        "interface": "Interface spécialisée pour visualisations médicales avancées",
+        "management": "Système de data management pour analyses cliniques"
+      }
+    },
+    "geomarketing": {
+      "title": "Geomarketing Spatial Analysis",
+      "description": "Outil d'aide à la décision géospatiale pour l'analyse des pharmacies en France, croisant données démographiques et environnement médical via diagrammes de Voronoï.",
+      "features": {
+        "spatial": "Analyse géospatiale avancée avec diagrammes de Voronoï",
+        "demographics": "Croisement démographie et environnement médical",
+        "decision": "Système d'aide à la décision pour implantations"
+      }
+    }
+  },
+  "skills": {
+    "title": "Compétences Techniques",
+    "subtitle": "Expertise en Intelligence Artificielle et technologies de pointe pour développer des solutions innovantes",
+    "click_drag": "Cliquez + glissez pour déplacer les clusters",
+    "click_details": "Cliquez sur un outil pour plus de détails",
+    "ai_ml": {
+      "title": "IA & ML"
+    },
+    "languages": {
+      "title": "Langages"
+    },
+    "frameworks": {
+      "title": "Frameworks & Outils"
+    },
+    "technologies": "Technologies que j'utilise",
+    "domains": {
+      "all": "Tous",
+      "ai": "IA",
+      "ml": "ML",
+      "datascience": "Data Science",
+      "dataeng": "Data Eng",
+      "rag": "RAG"
+    }
+  },
+  "experience": {
+    "title": "Expérience Professionnelle",
+    "subtitle": "Parcours professionnel dans l'intelligence artificielle et la science des données",
+    "iveco": {
+      "title": "AI Engineer",
+      "company": "IVECO France (Lyon) - Alternance",
+      "period": "Septembre 2024 - Présent",
+      "description": "Développement des premiers processus d'Intelligence Artificielle au sein du bureau d'études d'IVECO France.",
+      "achievements": [
+        "Création d'un <span class=\"text-accent-400 font-semibold\">chatbot RAG multimodal</span> utilisant Ollama, LangChain, ChromaDB, Pydantic AI et des modèles open-source (llava, granite3.2-vision, llama3.2-vision)",
+        "Déploiement d'un <span class=\"text-accent-400 font-semibold\">système Multi-Agent innovant</span> intégrant les MCP et le Function Calling, boostant la qualité des réponses de <span class=\"text-primary-400 font-bold\">40%</span>",
+        "Optimisation de la recherche d'informations pour les concepteurs (réduction de <span class=\"text-primary-400 font-bold\">60%</span> du temps de recherche)",
+        "Collaboration avec <span class=\"text-accent-400 font-semibold\">3 équipes internationales</span> pour la transformation digitale"
+      ]
+    },
+    "chu": {
+      "title": "Data Scientist",
+      "company": "CHU de Lille - Stage",
+      "period": "Mars - Août 2024",
+      "description": "Implémentation de systèmes d'extraction de données structurées avec l'IA générative au CHU de Lille.",
+      "achievements": [
+        "Implémentation de systèmes d'extraction de données structurées avec l'<span class=\"text-accent-400 font-semibold\">IA générative</span>",
+        "Optimisation de performances via des <span class=\"text-accent-400 font-semibold\">modèles LLM open source</span> (Llama 3.1, Mistral7B, Gemma)",
+        "Déploiement d'un <span class=\"text-accent-400 font-semibold\">système RAG efficace</span> utilisant Ollama, ChromaDB, HuggingFace",
+        "<span class=\"text-primary-400 font-bold\">IMPACT:</span> Valorisation immédiate de <span class=\"text-primary-400 font-bold\">10+ ans</span> d'historique de données médicales non structurées"
+      ]
+    },
+    "eric": {
+      "title": "Data Scientist",
+      "company": "Laboratoire ERIC, Université Lyon 2 - Stage",
+      "period": "Avril - Juin 2023",
+      "description": "Analyse de données de mesures périodiques et développement d'algorithmes d'analyse prédictive.",
+      "achievements": [
+        "Intégration et harmonisation de données de <span class=\"text-accent-400 font-semibold\">500+ échantillons</span> de mesures périodiques",
+        "Identification de tendances et relations au sein des cohortes via <span class=\"text-accent-400 font-semibold\">Statistical Modeling</span>",
+        "Développement d'algorithmes d'<span class=\"text-accent-400 font-semibold\">analyse prédictive</span> avec R et Python"
+      ]
+    }
+  },
+  "certifications": {
+    "title": "Certifications",
+    "subtitle": "Certifications Microsoft Azure validant mon expertise en intelligence artificielle et données",
+    "azure_ai": {
+      "title": "Azure AI Fundamentals",
+      "code": "AI-900",
+      "description": "Validation des connaissances fondamentales en intelligence artificielle et services cognitifs Microsoft Azure",
+      "tags": ["AI Services", "Cognitive Services"],
+      "status": "Certifié"
+    },
+    "azure_data": {
+      "title": "Azure Data Fundamentals",
+      "code": "DP-900",
+      "description": "Maîtrise des concepts fondamentaux de données et services de données Microsoft Azure",
+      "tags": ["Data Services", "Analytics"],
+      "status": "Certifié"
+    },
+    "power_platform": {
+      "title": "Power Platform Fundamentals",
+      "code": "PL-900",
+      "description": "Expertise des capacités de Microsoft Power Platform pour la création d'applications et d'automatisations",
+      "tags": ["Power Apps", "Power BI"],
+      "status": "Certifié"
+    },
+    "education": {
+      "title": "Formation",
+      "master": {
+        "title": "Master Data Science",
+        "school": "ILIS, Université de Lille",
+        "period": "2023 - 2025",
+        "description": "Spécialisation Intelligence Artificielle et Science des Données avec focus sur l'IA générative et les applications médicales."
+      },
+      "license_data": {
+        "title": "Licence Informatique Science des Données",
+        "school": "Université Lyon 2",
+        "period": "2022 - 2023"
+      },
+      "license_software": {
+        "title": "Licence Pro Génie Logiciel",
+        "school": "Université de Lomé (Togo)",
+        "period": "2019 - 2022"
+      }
+    },
+    "soft_skills": {
+      "title": "Soft Skills",
+      "skills": [
+        "Gestion de projet Agile/Scrum",
+        "Communication interdisciplinaire",
+        "Résolution de problèmes",
+        "Autonomie",
+        "Adaptabilité multiculturelle",
+        "Leadership technique"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "subtitle": "Discutons de vos projets en IA et Data Science",
+    "description": "Je suis toujours intéressé par de nouveaux défis et opportunités de collaboration. N'hésitez pas à me contacter pour discuter de vos projets.",
+    "name": "Nom",
+    "email": "Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès!",
+    "error": "Erreur lors de l'envoi du message.",
+    "cta": {
+      "title": "Prêt pour votre prochain projet",
+      "title_highlight": "IA",
+      "subtitle": "Collaborons pour créer des solutions d'intelligence artificielle innovantes qui transforment votre business.",
+      "contact_button": "Contactez-moi",
+      "download_cv": "Télécharger CV",
+      "linkedin": "LinkedIn",
+      "stats": {
+        "experience": "Années d'expérience",
+        "projects": "Projets réalisés",
+        "certifications": "Certifications Azure"
+      }
+    }
+  },
+  "footer": {
+    "description": "AI Engineer & Data Scientist passionné par l'innovation technologique et les solutions d'intelligence artificielle.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "certifications": "Certifications",
+    "developed_with": "Développé avec",
+    "and": "et",
+    "available": "Disponible pour de nouveaux projets"
+  },
+  "chat": {
+    "title": "Découvrez mon parcours avec",
+    "title_highlight": "l'IA",
+    "subtitle": "Posez-moi des questions sur mon expérience, mes compétences, mes projets ou ma formation. Ce chatbot intelligent utilise un système RAG pour vous fournir des informations précises sur mon parcours.",
+    "welcome": {
+      "message": "👋 Bonjour ! Je suis Solim LAOKPEZI, AI Engineer et Data Scientist. Demandez-moi tout ce que vous voulez savoir sur :",
+      "topics": [
+        "• Mon expérience chez IVECO, CHU de Lille, ERIC Lab",
+        "• Mes projets en IA générative et systèmes RAG",
+        "• Mes compétences techniques et certifications",
+        "• Mes documents (CV, mémoire, etc.)"
+      ]
+    },
+    "suggestions": {
+      "label": "Questions suggérées :",
+      "questions": [
+        "Parle-moi de IVECO",
+        "Tes compétences IA",
+        "Projets innovants",
+        "Certifications Azure"
+      ]
+    },
+    "input": {
+      "placeholder": "Posez votre question sur mon parcours...",
+      "send": "Envoyer"
+    },
+    "status": {
+      "ready": "RAG System Ready",
+      "generating": "Génération de la réponse...",
+      "initializing": "Initialisation RAG...",
+      "indexing": "Indexation en cours...",
+      "offline": "Système hors ligne",
+      "error": "Erreur d'initialisation"
+    },
+    "info": "💡 Ce chatbot utilise un système <strong>RAG (Retrieval-Augmented Generation)</strong> alimenté par <strong>Mistral AI</strong> et indexe mes documents personnels pour des réponses précises.",
+    "errors": {
+      "general": "Désolé, une erreur s'est produite. Veuillez réessayer.",
+      "connection": "Erreur de connexion. Veuillez vérifier votre connexion internet et réessayer."
+    },
+    "sources": "Sources :",
+    "confidence": "Confiance:"
+  }
+}
