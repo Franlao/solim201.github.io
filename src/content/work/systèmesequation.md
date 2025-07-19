@@ -7,7 +7,7 @@ description: |
     Analyse approfondie des risques associés à la santé mentale sur le lieu de travail technologique, en mettant en lumière les troubles de santé mentale.
 tags:
   - Python
-  - Dash
+  - Dash, scikit-learn
   - Régression logistique
     
 ---
