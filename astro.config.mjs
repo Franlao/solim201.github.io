@@ -1,15 +1,13 @@
 import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
-import node from "@astrojs/node";
+import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://solim201.github.io',
+    site: 'https://my-portfolio-solim.vercel.app',
     base: '/',
     output: 'server',
-    adapter: node({
-        mode: 'standalone'
-    }),
+    adapter: vercel(),
     build: {
         assets: 'assets'
     },
